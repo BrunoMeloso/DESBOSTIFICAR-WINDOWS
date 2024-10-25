@@ -1,2 +1,3 @@
-# cool-things-D
-varias coisas legais
+# cool things :D
+
+varias coisas legais e uteis 
