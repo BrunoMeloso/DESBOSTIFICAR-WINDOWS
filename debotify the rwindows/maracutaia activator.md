@@ -2,9 +2,15 @@
 
 ai me dizem que o burrindows busca a paridade do serial em um servidor dedicado para ativar o mesmo.<br/>
 depois falaram ainda que se vc jogar no pronpt de comando em modo administrador um novo server vc pode ativar seu software da micosoftware no 0800.<br/>
-basta colar ~~cscript slmgr.vbs /skms kms.ddns.net~~~ no terminal e depois fazer uma call com ~~~~cscript slmgr.vbs /ato~~~ pode ser que vá de primeira.<br/>
-se não pode trocar a chave do rwindows com ~~~cscript slmgr.vbs /ipk~~~ seguido da chave abaixo <br/>
-
+basta colar na sequncia no terminal que pode ser que vá de primeira.<br/>
+```
+cscript slmgr.vbs /skms kms.ddns.net
+cscript slmgr.vbs /ato
+```
+se não for, der erro, vc pode trocar a chave do seu rwindows com esse comando seguido da chave
+```
+cscript slmgr.vbs /ipk
+```
 ### escolha o tipo do burrindows:
 10 Home Single Language -- ```N2434-X9D7W-8PF6X-8DV9T-8TYMD```<br/>
 10 Profissional -- ```W269N-WFGWX-YVC9B-4J6C9-T83GX``` ou ```VK7JG-NPHTM-C97JM-9MPGT-3V66T```<br/>
@@ -18,7 +24,7 @@ se não pode trocar a chave do rwindows com ~~~cscript slmgr.vbs /ipk~~~ seguido
 
 
 <p>
-!(https://media.tenor.com/O7I6jP528WoAAAAi/potato-kawaii-potato.gif)
+<img align="center" height="100" width="100" src="https://media.tenor.com/O7I6jP528WoAAAAi/potato-kawaii-potato.gif">
 </p>
 
 e falaram ainda que se vc precisar limpar, só por ```cscript slmgr.vbs /ckms``` que reseta o servidor <br/>
