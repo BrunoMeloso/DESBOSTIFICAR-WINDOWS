@@ -1,10 +1,16 @@
 ## Não foi eu que inventei isso, me contaram em [KMS](https://gist.github.com/mokoshalb/b87326bbb62805e94da72f8d0f73f563)
-<div style="display: none; visibility: hidden;"><br>
+
 ai me dizem que o burrindows busca a paridade do serial em um servidor dedicado para ativar o mesmo.
 depois falaram ainda que se vc jogar no pronpt de comando em modo administrador um novo server vc pode ativar seu software da micosoftware no 0800.
-basta colar ```cscript slmgr.vbs /skms kms.ddns.net``` no terminal e depois fazer uma call com ```cscript slmgr.vbs /ato``` pode ser que vá de primeira.
-se não pode trocar a chave do rwindows com ```cscript slmgr.vbs /ipk``` seguido da chave abaixo
-</div>
+basta colar 
+```cscript slmgr.vbs /skms kms.ddns.net``` 
+no terminal e depois fazer uma call com 
+```cscript slmgr.vbs /ato```
+pode ser que vá de primeira.
+se não pode trocar a chave do rwindows com
+```cscript slmgr.vbs /ipk```
+seguido da chave abaixo
+
 
 ### exemplo pra vc maninho: cscript slmgr.vbs /ipk NPPR9-FWDCX-D2C8J-H872K-2YT43
 
