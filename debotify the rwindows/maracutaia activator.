@@ -1,8 +1,8 @@
 dizem que o o burrindows busca a paredade do serial em um servidor dedicado para ativar o mesmo 
 falaram ainda que se vc jogar no pronpt de comando em modo administrador um novo server vc pode ativar seu software da micosoftware no 0800 das maracutengas
 
-colando o "cScript slmgr.vbs /skms kms.ddns.net" e depois fazer uma call com "cScript slmgr.vbs /ato" pode ser que va de primeira
-ou então pode trocar a chave do mesmo com "cscript slmgr.vbs /ipk NPPR9-FWDCX-D2C8J-H872K-2YT43"
+colando o ```cScript slmgr.vbs /skms kms.ddns.net``` e depois fazer uma call com ```cScript slmgr.vbs /ato``` pode ser que vá de primeira
+ou então pode trocar a chave do mesmo com ```cscript slmgr.vbs /ipk NPPR9-FWDCX-D2C8J-H872K-2YT43```
 
 escolhendo o tipo:
 Windows 10 Home Single Language -- N2434-X9D7W-8PF6X-8DV9T-8TYMD
@@ -16,4 +16,4 @@ Windows 11 Pro Workstations --	NRG8B-VKK3Q-CXVCJ-9G2XF-6Q84J
 falaram ainda que se vc precisar limpar, só por "cScript slmgr.vbs /ckms"
 
 rode "slmgr.vbs" para saber mais
-não foi eu que inventei isso, me contaram em <script src="https://gist.github.com/mokoshalb/b87326bbb62805e94da72f8d0f73f563.js"></script>
+não foi eu que inventei isso, me contaram em ```https://gist.github.com/mokoshalb/b87326bbb62805e94da72f8d0f73f563.js```
