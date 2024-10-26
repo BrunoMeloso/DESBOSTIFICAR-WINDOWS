@@ -8,6 +8,7 @@ E depois falaram que se vc jogar no **[prompt de comando](https://pt.wikihow.com
 
 ### Aí basta colar na sequência no terminal que pode ser que vá de primeira.
 <br>
+
 ```
 cscript slmgr.vbs /skms kms.ddns.net
 ```
@@ -17,6 +18,7 @@ cscript slmgr.vbs /ato
 
 ### Se não for ou der erro, você pode trocar a chave colando um desses códigos de acordo com seu rwindows:
 <br>
+
   * 10 Home Single Language -- 
 ```
   cscript slmgr.vbs /ipk N2434-X9D7W-8PF6X-8DV9T-8TYMD```
