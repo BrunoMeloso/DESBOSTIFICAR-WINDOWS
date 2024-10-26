@@ -1,13 +1,12 @@
 > [!WARNING] 
 > # Ó, tenho nada haver com isso dai, ta okay? Me contaram em: [KMS](https://gist.github.com/mokoshalb/b87326bbb62805e94da72f8d0f73f563)
->
 <br>
 
 Ai disseram que o burrindows busca a paridade do serial em um servidor dedicado para ativar o menino.<br>
-E depois falaram que se vc jogar no **[prompt de comando](https://pt.wikihow.com/Executar-o-Prompt-de-Comando-como-Administrador-no-Windows)** um novo servidor, você pode ativar seu software da micosoftware no 0800.<br>
+E depois falaram que se vc jogar no **[prompt de comando](https://pt.wikihow.com/Executar-o-Prompt-de-Comando-como-Administrador-no-Windows)** um novo servidor, você pode ativar seu software da micosoftware no 0800.
+<br>
 
 ### Aí basta colar na sequência no terminal que pode ser que vá de primeira.
-<br>
 
 ```
 cscript slmgr.vbs /skms kms.ddns.net
@@ -15,9 +14,9 @@ cscript slmgr.vbs /skms kms.ddns.net
 ```
 cscript slmgr.vbs /ato
 ```
+<br>
 
 ### Se não for ou der erro, você pode trocar a chave colando um desses códigos de acordo com seu rwindows:
-<br>
 
   * 10 Home Single Language -- 
 ```
