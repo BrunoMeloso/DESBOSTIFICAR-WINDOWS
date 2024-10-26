@@ -1,11 +1,12 @@
-#ó, tenho nada haver com isso dai, ta okay?
+# ó, tenho nada haver com isso dai, ta okay?
+## Me contaram em: [KMS](https://gist.github.com/mokoshalb/b87326bbb62805e94da72f8d0f73f563) 
 
-## Não foi eu que inventei isso, me contaram em: [KMS](https://gist.github.com/mokoshalb/b87326bbb62805e94da72f8d0f73f563) 
-<p>
 Ai me disseram que o burrindows busca a paridade do serial em um servidor dedicado para ativar o menino.
-E depois falaram que se vc jogar no [prompt de comando](https://pt.wikihow.com/Executar-o-Prompt-de-Comando-como-Administrador-no-Windows) em modo administrador um novo servidor, você pode ativar seu software da micosoftware no 0800.
+
+E depois falaram que se vc jogar no **[prompt de comando](https://pt.wikihow.com/Executar-o-Prompt-de-Comando-como-Administrador-no-Windows)** em modo administrador um novo servidor, você pode ativar seu software da micosoftware no 0800.
+
 Aí basta colar na sequência no terminal que pode ser que vá de primeira.
-</p>
+
 ```
 cscript slmgr.vbs /skms kms.ddns.net
 ```
@@ -50,9 +51,11 @@ NRG8B-VKK3Q-CXVCJ-9G2XF-6Q84J
 cscript slmgr.vbs /ato
 ```
 
-Foi? ![GG](https://media.tenor.com/O7I6jP528WoAAAAi/potato-kawaii-potato.gif)
-<p>
+Foi? ![](https://media.tenor.com/O7I6jP528WoAAAAi/potato-kawaii-potato.gif)
+
   Depois e falaram ainda que se vc precisar limpar o servidor, só rodar (cscript slmgr.vbs /ckms)
+  
   Por fim, rode (slmgr.vbs) para saber mais.
+  
   And, make to 50 in romans numbers 🤣
-</p>
+
