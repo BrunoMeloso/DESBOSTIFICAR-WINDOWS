@@ -45,25 +45,33 @@ cscript slmgr.vbs /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX
 ```
 cscript slmgr.vbs /ipk NRG8B-VKK3Q-CXVCJ-9G2XF-6Q84J
 ```
-<br/>
+<br>
+<br>
+<br>
+
 ### E precisa rodar de novo:
 ```
 cscript slmgr.vbs /ato
 ```
 
-<br/>
+<br>
+<br>
+<br>
+ 
+![gg](https://media.tenor.com/O7I6jP528WoAAAAi/potato-kawaii-potato.gif)
 
- ![gg](https://media.tenor.com/O7I6jP528WoAAAAi/potato-kawaii-potato.gif)
-
- 
- 
- Por fim me falaram ainda que se vc precisar limpar o servidor, só rodar ```cscript slmgr.vbs /ckms```
- 
- Rode ```slmgr.vbs``` ou visite a [Micosoft](https://learn.microsoft.com/pt-br/windows-server/get-started/kms-client-activation-keys?tabs=server2025%2Cwindows1110ltsc%2Cversion1803%2Cwindows81) para saber mais.
+Por fim me falaram ainda que se vc precisar limpar o servidor, só rodar ```cscript slmgr.vbs /ckms``` <br>
+Rode ```slmgr.vbs``` ou visite a [Micosoft](https://learn.microsoft.com/pt-br/windows-server/get-started/kms-client-activation-keys?tabs=server2025%2Cwindows1110ltsc%2Cversion1803%2Cwindows81) para saber mais.
 
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
  
 > [!CAUTION] 
 > Do 50 in romans numbers and pay your taxes🤣
