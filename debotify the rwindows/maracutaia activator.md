@@ -1,8 +1,11 @@
-> [!CAUTION]
-> # Ó, tenho nada haver com isso dai, ta okay? [^1] Me contaram em: **[KMS](https://gist.github.com/mokoshalb/b87326bbb62805e94da72f8d0f73f563) **
+[!WARNING] 
+# Ó, tenho nada haver com isso dai, ta okay? Me contaram em: [KMS](https://gist.github.com/mokoshalb/b87326bbb62805e94da72f8d0f73f563) 
+
+
+
 
 Ai me disseram que o burrindows busca a paridade do serial em um servidor dedicado para ativar o menino.
-E depois falaram que se vc jogar no **[prompt de comando](https://pt.wikihow.com/Executar-o-Prompt-de-Comando-como-Administrador-no-Windows)** em modo administrador um novo servidor, você pode ativar seu software da micosoftware no 0800.
+E depois falaram que se vc jogar no [prompt de comando](https://pt.wikihow.com/Executar-o-Prompt-de-Comando-como-Administrador-no-Windows) em modo administrador um novo servidor, você pode ativar seu software da micosoftware no 0800.
 Aí basta colar na sequência no terminal que pode ser que vá de primeira.
 
 ```
@@ -57,5 +60,5 @@ cscript slmgr.vbs /ato
   
  
 
-> [!WARNING] 
+> [!CAUTION] 
 > And, make to 50 in romans numbers 🤣
