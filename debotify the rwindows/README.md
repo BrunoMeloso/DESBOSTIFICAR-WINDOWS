@@ -7,7 +7,7 @@ E depois falaram que se vc jogar no **[prompt de comando](https://pt.wikihow.com
 <br>
 <br>
 
-### Aí basta colar na sequência no terminal que pode ser que vá de primeira.
+## Aí basta colar na sequência no terminal que pode ser que vá de primeira.
 
 ```
 cscript slmgr.vbs /skms kms.ddns.net
@@ -17,7 +17,7 @@ cscript slmgr.vbs /ato
 ```
 <br>
 
-### Se não for ou der erro, você pode trocar a chave colando um desses códigos de acordo com seu rwindows:
+## Se não for ou der erro, você pode trocar a chave colando um desses códigos de acordo com seu rwindows:
 
   * 10 Home Single Language -- 
 ```
@@ -50,7 +50,7 @@ cscript slmgr.vbs /ipk NRG8B-VKK3Q-CXVCJ-9G2XF-6Q84J
 <br>
 
 >[!NOTE]
-> ### Precisa rodar de novo:
+> ## Precisa rodar de novo:
 ```
 cscript slmgr.vbs /ato
 ```
