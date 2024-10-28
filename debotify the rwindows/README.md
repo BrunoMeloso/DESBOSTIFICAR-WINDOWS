@@ -21,7 +21,7 @@ cscript slmgr.vbs /ato
 
   * 10 Home Single Language -- 
 ```
-  cscript slmgr.vbs /ipk N2434-X9D7W-8PF6X-8DV9T-8TYMD```
+  cscript slmgr.vbs /ipk N2434-X9D7W-8PF6X-8DV9T-8TYMD
 ```
   * 10 Profissional -- 
 ```
