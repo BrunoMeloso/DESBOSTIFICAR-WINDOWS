@@ -4,15 +4,15 @@
 <br>
 
 #### Não deixa seu legumo, seu caneno, seu escapamento de couro, seu precioso exposto na internet, véio 😒👌 <br>
-Como vc acha que big techs ganham dinehrio se não for vendendo seus dados a sites de varejo e criando sua ID na internet? <br>
+Como vc acha que big techs ganham dinheiro se não for vendendo seus dados a sites de varejo e criando sua ID na internet? <br>
 Vendo onde vc vai e frequenta com seu gps. <br>
 Vendo onde vc gasta sua grana com os Pay. <br>
 Vendo o que vc gosta ou descosta por sua câmera. <br> 
 Vendo tudo que vc consome com seu CPF na nota, em farmas e lojas. <br>
 Vendo tudo que vc escreve e clica com as telemetrias.<br>
-Vendo vc se cadastrar naquele onlyfans, fórum alternativo, se vc mandou pix pra ex-oresidente até o que vc viu na deepweb através das maravilhosas bolachinas <br> 
+Vendo vc se cadastrar naquele onlyfans, fórum alternativo, se vc mandou pix para ex-presidente até o que vc viu na deepweb através das maravilhosas bolachinhas <br> 
 
-<img src="https://github.com/user-attachments/assets/3526960a-3a8a-47b7-b9db-b6e67eeb0d06" width="150">
+<img src="https://github.com/user-attachments/assets/3526960a-3a8a-47b7-b9db-b6e67eeb0d06" width="200">
 
 ##### Tipos de Dados Utilizados 🎲: 
 Dados Demográficos: Informações sobre idade, gênero, localização e interesses dos usuários, coletadas por meio de perfis de usuários e formulários de registro. <br>
