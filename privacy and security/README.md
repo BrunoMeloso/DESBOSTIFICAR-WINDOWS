@@ -1,6 +1,7 @@
 ### mano
 ## mano
 # MANO 🫨
+
 <br>
 
 #### Não deixa seu legumo, seu caneno, seu escapamento de couro, seu precioso exposto na internet, véio 😒👌 <br>
