@@ -30,7 +30,7 @@ Parcerias e Aquisições: Formam parcerias com outras empresas ou adquirem start
 <br>
 #### O que fazer para não ficar com seu berrante, bufante, cofre de churros, pisca-pisca, tarraqueta, segueta na internet?
 
-## Boas Praticas meu mano
+### Boas Praticas meu mano 😎
 
 ![CleanRoom-MessyGIF](https://github.com/user-attachments/assets/2fdb3215-867d-44b6-9cf3-13c777007350)
 <br>
