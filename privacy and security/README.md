@@ -6,27 +6,27 @@
 
 #### Não deixa seu legumo, seu caneno, seu escapamento de couro, seu precioso exposto na internet, véio 😒👌 <br>
 Como vc acha que big techs ganham dinheiro se não for vendendo seus dados a sites de varejo e criando sua ID na internet? <br>
-Vendo onde vc vai e frequenta com seu gps. <br>
-Vendo onde vc gasta sua grana com os Pay. <br>
-Vendo o que vc gosta ou descosta por sua câmera. <br> 
-Vendo tudo que vc consome com seu CPF na nota, em farmas e lojas. <br>
-Vendo tudo que vc escreve e clica com as telemetrias.<br>
-Vendo vc se cadastrar naquele onlyfans, fórum alternativo, se vc mandou pix para ex-presidente até o que vc viu na deepweb através das maravilhosas bolachinhas <br> 
+* Vendo onde vc vai e frequenta com seu gps. <br>
+* Vendo onde vc gasta sua grana com os Pay. <br>
+* Vendo o que vc gosta ou descosta por sua câmera. <br> 
+* Vendo tudo que vc consome com seu CPF na nota, em farmas e lojas. <br>
+* Vendo tudo que vc escreve e clica com as telemetrias.<br>
+* Vendo vc se cadastrar naquele onlyfans, fórum alternativo, se vc mandou pix para ex-presidente até o que vc viu na deepweb através das maravilhosas bolachinhas <br> 
 
 <img src="https://github.com/user-attachments/assets/3526960a-3a8a-47b7-b9db-b6e67eeb0d06" width="200">
 
 ##### Tipos de Dados Utilizados 🎲: 
-Dados Demográficos: Informações sobre idade, gênero, localização e interesses dos usuários, coletadas por meio de perfis de usuários e formulários de registro. <br>
-Dados Comportamentais: Informações sobre como os usuários interagem com plataformas e serviços, como cliques, tempo de permanência, páginas visitadas e interações com anúncios. <br>
-Dados de Compras: Informações sobre transações, incluindo produtos comprados, valores gastos e frequências de compra, coletadas através de plataformas de e-commerce. <br>
-Dados de Dispositivos: Informações sobre o tipo de dispositivo utilizado, sistema operacional, navegador e endereço IP, que ajudam a personalizar a experiência do usuário. <br>
-Dados de Redes Sociais: Informações sobre interações sociais, como curtidas, compartilhamentos e comentários, que ajudam a entender as preferências e comportamentos sociais. <br>
+* Dados Demográficos: Informações sobre idade, gênero, localização e interesses dos usuários, coletadas por meio de perfis de usuários e formulários de registro. <br>
+*Dados Comportamentais: Informações sobre como os usuários interagem com plataformas e serviços, como cliques, tempo de permanência, páginas visitadas e interações com anúncios. <br>
+*Dados de Compras: Informações sobre transações, incluindo produtos comprados, valores gastos e frequências de compra, coletadas através de plataformas de e-commerce. <br>
+*Dados de Dispositivos: Informações sobre o tipo de dispositivo utilizado, sistema operacional, navegador e endereço IP, que ajudam a personalizar a experiência do usuário. <br>
+* Dados de Redes Sociais: Informações sobre interações sociais, como curtidas, compartilhamentos e comentários, que ajudam a entender as preferências e comportamentos sociais. <br>
 #### Como Conseguem Esses Dados 🍪:
-Consentimento do Usuário: Muitas big techs obtêm dados diretamente dos usuários, que fornecem informações ao criar contas, preencher formulários ou interagir com conteúdos.<br>
-Cookies e Tecnologias de Rastreamento: Usam cookies e outras tecnologias para rastrear a atividade dos usuários na web, permitindo coletar dados sobre comportamento e preferências.<br>
-Integração de Serviços: Oferecem uma variedade de serviços interconectados (como redes sociais, buscas e e-commerce) que permitem coletar dados de várias fontes.<br>
-Análise de Dados: Empregam algoritmos avançados e técnicas de machine learning para analisar grandes volumes de dados e extrair insights valiosos.<br>
-Parcerias e Aquisições: Formam parcerias com outras empresas ou adquirem startups para expandir suas capacidades de coleta e análise de dados.<br>
+* Consentimento do Usuário: Muitas big techs obtêm dados diretamente dos usuários, que fornecem informações ao criar contas, preencher formulários ou interagir com conteúdos.<br>
+* Cookies e Tecnologias de Rastreamento: Usam cookies e outras tecnologias para rastrear a atividade dos usuários na web, permitindo coletar dados sobre comportamento e preferências.<br>
+* Integração de Serviços: Oferecem uma variedade de serviços interconectados (como redes sociais, buscas e e-commerce) que permitem coletar dados de várias fontes.<br>
+* Análise de Dados: Empregam algoritmos avançados e técnicas de machine learning para analisar grandes volumes de dados e extrair insights valiosos.<br>
+* Parcerias e Aquisições: Formam parcerias com outras empresas ou adquirem startups para expandir suas capacidades de coleta e análise de dados.<br>
 <br>
 #### O que fazer para não ficar com seu berrante, bufante, cofre de churros, pisca-pisca, tarraqueta, segueta na internet?
 
