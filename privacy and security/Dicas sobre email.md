@@ -15,7 +15,7 @@ Contas de E-mails:
 ### 🔏Segurança:  
 
 * #### Não reutilize senhas!!!
-* Exite [bitwarden](https://bitwarden.com/), [lastpass](https://www.lastpass.com/) e [1password](https://1password.com/) para isso. Caso você não queira usar, crie um padrão de senha mudando uma coisa ou outra como, SenhaForte%2020, SenhaFortedoGoogle%2020, SenhaFortedaSteam%2020, SenhaFortedoFace%2020, de seu jeito. Mas os Apps de gerenciamento de senha, você pode gerar senhas complexas e únicas para cada conta.
+* Exite [bitwarden](https://bitwarden.com/), [lastpass](https://www.lastpass.com/) e [1password](https://1password.com/) para isso. Caso você não queira usar, crie um padrão de senha mudando uma coisa ou outra, de seu jeito. Mas os Apps de gerenciamento de senha, você pode gerar senhas complexas e únicas para cada conta.
 * #### Ponha autenticação de dois fatores, por favor!
 * Se você não quer tomar um gank de crianças de 14 anos e descobrir que seus nudes foram parar em sites duvidosos da camada 1 da internet e vendidos na darkweb. É bom usar 2fa 😊. Autenticadores de Senhas Únicas, como Authy, Google Authenticator ou Microsoft Authenticator, são opções recomendadas para alguns casos. 
 * #### Don't trust, verify!
