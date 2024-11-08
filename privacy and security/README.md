@@ -11,7 +11,7 @@ Como vc acha que big techs ganham dinheiro se não for vendendo seus dados a sit
 * Vendo o que vc gosta ou descosta por sua câmera. <br> 
 * Vendo tudo que vc consome com seu CPF na nota, em farmas e lojas. <br>
 * Vendo tudo que vc escreve e clica com as telemetrias.<br>
-* Vendo vc se cadastrar naquele onlyfans, fórum alternativo, se vc mandou pix para ex-presidente até o que vc viu na deepweb através das maravilhosas bolachinhas <br> 
+* Vendo vc se cadastrar naquele onlyfans, fórum alternativo, se vc mandou pix para ex-presidente até o que vc viu na deepweb através das maravilhosas bolachinhas.
 
 <img src="https://github.com/user-attachments/assets/3526960a-3a8a-47b7-b9db-b6e67eeb0d06" width="200">
 
