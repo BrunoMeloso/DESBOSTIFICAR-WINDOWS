@@ -10,7 +10,10 @@ Contas de E-mails:
 * E-mail 1: Priorize usar esse E-mail para serviços governamentais, bancos, apps críticos com seu rosto e CPF como gov.br e receita federal. Podendo adicionar contas que julgue como sensíveis, como operadoras de internet, cadastro em lojas varejistas e apps com dados de identificação. 
 * E-mail 2: Use para lojas, entretenimento e serviços com Amazon, Netflix, Steam, Drives, Agendas, LinkedIn, Facebook, Instagram, WhatsApp, fotos e contatos. Inclua perfil online, fóruns, e registos para IA's, Github, Tinkercad, YouTube, e outros, sem dados críticos de governo ou banco.
 * E-mail 3 (opcional, mas recomendado): Caso queira um e-mail específico para trabalho ou escola, com Google Drive, arquivos e contatos, sem dados críticos e que não misture com o E-mail 1 e 2.
-* Caso opte por E-mail 3, considere um email principal que seja o E-mail de recuperação desses outros. Assim, você nunca perderá o acesso! 
+* Caso opte por E-mail 3, considere um email principal que seja o E-mail de recuperação desses outros. Assim, você nunca perderá o acesso!
+
+  ![](https://i.ibb.co/Bq1PXSt/Diagrama.jpg)
+
 
 ### 🔏Segurança:  
 
