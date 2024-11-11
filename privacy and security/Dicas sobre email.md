@@ -1,5 +1,5 @@
 # Como deixar seus E-mails, serviços e produtos organizados e seguros? 📩🛅🪀
-## Aqui vc encontrará algumas dicas de como organizar suas coisas: 
+## Aqui você encontrará algumas dicas de como organizar suas coisas: 
 
 ### 📩E-mails: 
 `O E-mail sempre é um problema caso você perca o acesso, misture com diversas coisas como 
