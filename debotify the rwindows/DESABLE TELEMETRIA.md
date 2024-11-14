@@ -1,4 +1,4 @@
-# Você precisa urgente DESABILITAR a TELEMETRIA! 😱 
+# Você precisa urgente DESABILITAR a TELEMETRIA!😱
 <br>
 
 `
@@ -9,8 +9,7 @@ Esses dados podem incluir informações sobre o desempenho do sistema, uso de ap
 <br>
 
 ![IanInsanityGIF](https://github.com/user-attachments/assets/7dadea2a-65ed-4f95-8ed3-691523cb4bf0)
-<br>
-<br>
+###### Daqui é por sua conta, se der pau a culpa é sua 😊
 
 ## Caso seu Pordrwindows não tenha o Editor de Políticas de Grupo, Ative-o 
 
@@ -36,21 +35,26 @@ Pronto, não sei como o Gpedit foi instalado, agora basta seguir o precesso:
 
 ### Faça isso:
 
-1.  Via Editor de Política de Grupo
-      Pressione Windows + R, digite `gpedit.msc` e pressione Enter.
-      No menu de Configuração do Computador vá para `Modelos Administrativos > Componentes do Windows > Coleta de Dados e Compilação de Visualização`
-      desative as coletas e tudo o que quiser, limite a telemetria ai. 
+
+1. Via Editor de Política de Grupo<br/>
+      Pressione Windows + R, digite `gpedit.msc` e pressione Enter.<br/>
+      No menu de Configuração do Computador vá para `Modelos Administrativos > Componentes do Windows > Coleta de Dados e Compilação de Visualização`<br/>
+      desative as coletas e tudo o que quiser, limite a telemetria ai. <br/>
 <br>
 
-2.  Via Registro do Windows
-      Pressione Windows + R, digite `regedit` e pressione Enter.
-      Vá para `HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\DataCollection`
-      Se a chave DataCollection não existir, você pode criá-la.
-      Dentro da chave, clique com o botão direito e crie um novo valor DWORD (32 bits) chamado AllowTelemetry e defina o valor como 0.
+2. Via Registro do Windows<br/>
+      Pressione Windows + R, digite `regedit` e pressione Enter.<br/>
+      Vá para `HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\DataCollection`<br/>
+      Se não encontrar a `chave` com o nome `DataCollection`, crie-a!<br/>
+      Depois já dentro da chave, crie um novo valor `DWORD` chamado `AllowTelemetry`  e defina o valor como:<br/>
+      0 para desativar a telemetria.<br/>
+      Reinicie o computador para aplicar as mudanças.
 <br>
 
-
-<br>
+3. Desativar o serviço de Telemetria<br/>
+      Pressione Win + R, digite `services.msc` e pressione Enter para abrir o Gerenciador de Serviços.<br/>
+      Localize o serviço chamado `Experiências do Usuário Conectado e Telemetria`.<br/>
+      Clique duas vezes sobre ele, altere o Tipo de inicialização para Desativado, e clique em OK.<br/>
 <br>
 
 
