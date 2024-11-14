@@ -1,6 +1,5 @@
-# cool things 😍🫶
-<br>
+# Cool Things 😍🫶
 <br>
 
-### varias coisas legais e úteis, eu acho!😊
+### Várias coisas legais e úteis, eu acho!😊
 
