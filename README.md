@@ -1,3 +1,3 @@
 # Cool Things :D
 
-varias coisas legais e uteis 
+Várias coisas legais e úteis
