@@ -1,3 +1,3 @@
 # Cool Things :D
 
-Várias coisas legais e úteis
+Várias coisas úteis e legais, eu acho 😊
