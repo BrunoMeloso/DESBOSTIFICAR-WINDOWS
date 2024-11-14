@@ -61,7 +61,6 @@ cscript slmgr.vbs /ato
 ![gg](https://media.tenor.com/O7I6jP528WoAAAAi/potato-kawaii-potato.gif)
 
 <br>
-<br>
 
 Por fim, falaram ainda que, se você precisar limpar o servidor, só rodar ```cscript slmgr.vbs /ckms``` <br>
 Rode ```slmgr.vbs``` ou visite a [Micosoft](https://learn.microsoft.com/pt-br/windows-server/get-started/kms-client-activation-keys?tabs=server2025%2Cwindows1110ltsc%2Cversion1803%2Cwindows81) para saber mais. 👌
