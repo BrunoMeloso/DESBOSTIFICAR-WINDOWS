@@ -8,3 +8,4 @@
 > [!NOTE]
 > Nesse repositório tem algumas coisas que podem te ajudar a deixar seu rWindows mais usável. 🚀<br/>
 > Se vou descobrindo mais coisas, vou jogando aqui para que não fique bagunçado em um 4shared da vida. 😊
+
