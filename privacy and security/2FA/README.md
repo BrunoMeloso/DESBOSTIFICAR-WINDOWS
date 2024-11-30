@@ -1,0 +1,4 @@
+# PENSA NUM NEGÓCIO LEGAL É ESSE TAL DE 2fa 🔏
+
+
+
