@@ -28,8 +28,10 @@ def generate_totp(secret, time_step=30):
     code = struct.unpack(">I", truncated_hash)[0] & 0x7FFFFFFF
     return code % 10**6  # Retorna os 6 dígitos
 
-# Exemplo de uso
+# Bora rodar
 print("digite a chave do TOTP: ")
-secret = input (" ") # Chave secreta (em Base32)
-print("Código TOTP de", hora_atual.strftime("%M:%S"), "é: ", generate_totp(secret))
+secret = input (" ") # Chave secreta (em Base32)  ||  exemplo M6OIBBU62I5AM4ORZIKDREIYBCESLNAH
+print("Código TOTP de", hora_atual.strftime("%H:%M:%S"), "é: ", generate_totp(secret))
+
+input("\n Pressione Enter para sair...") # O programa aguardará o usuário pressionar Enter para sair do console
 
