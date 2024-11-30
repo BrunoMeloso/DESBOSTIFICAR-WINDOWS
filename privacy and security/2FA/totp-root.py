@@ -1,3 +1,5 @@
+# Esse programa roda com libs locais, mais facil de entender:
+
 import hmac
 import hashlib
 import time
