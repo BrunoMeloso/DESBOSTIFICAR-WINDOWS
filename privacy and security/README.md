@@ -28,9 +28,10 @@ Como vc acha que big techs ganham dinheiro se não for vendendo seus dados a sit
 * Análise de Dados: Empregam algoritmos avançados e técnicas de machine learning para analisar grandes volumes de dados e extrair insights valiosos.<br>
 * Parcerias e Aquisições: Formam parcerias com outras empresas ou adquirem startups para expandir suas capacidades de coleta e análise de dados.<br>
 <br>
-#### O que fazer para não ficar com seu berrante, bufante, cofre de churros, pisca-pisca, tarraqueta, segueta na internet?
 
-### Boas Praticas meu mano 😎
+### O que fazer para não ficar com seu berrante, bufante, cofre de churros, pisca-pisca, tarraqueta, segueta na internet?
+
+## Boas Praticas meu mano 😎
 
 ![CleanRoom-MessyGIF](https://github.com/user-attachments/assets/2fdb3215-867d-44b6-9cf3-13c777007350)
 <br>
