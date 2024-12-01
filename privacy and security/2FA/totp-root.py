@@ -5,11 +5,7 @@ import hashlib
 import time
 import struct
 import base64
-from datetime import datetime
-
-# Obtém a hora atual
-hora_atual = datetime.now()
-
+import time
 
 def generate_totp(secret, time_step=30):
     # Decodifica a chave secreta (Base32 para bytes)
@@ -31,9 +27,11 @@ def generate_totp(secret, time_step=30):
     return code % 10**6  # Retorna os 6 dígitos
 
 # Bora rodar
+print("Hora Certa", time.strftime("%H:%M:%S")) # Mostra o horario atual
+
 print("digite a chave do TOTP: ")
 secret = input (" ") # Chave secreta (em Base32)  ||  exemplo M6OIBBU62I5AM4ORZIKDREIYBCESLNAH
-print("Código TOTP de", hora_atual.strftime("%H:%M:%S"), "é: ", generate_totp(secret))
+print("Sua chave é:", generate_totp(secret))
 
 input("\n Pressione Enter para sair...") # O programa aguardará o usuário pressionar Enter para sair do console
 
