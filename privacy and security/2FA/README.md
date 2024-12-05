@@ -22,7 +22,12 @@ Phishing: Mesmo que você seja enganado e forneça sua senha, o invasor não ter
 Ataques de força bruta: Hackers podem tentar adivinhar sua senha, mas não conseguem acessar o segundo fator.<br\>
 
 ### 3. Maior tranquilidade
-Sabendo que há uma segunda camada de proteção, você se sente mais seguro em relação às suas contas.
+Sabendo que há uma segunda camada de proteção, você se sente mais seguro em relação às suas contas. <br\>
+Mas tem um limitador, você não poderá deixa junto dos apps e serviços que você usa esse 2fa, até o de sms ou quem vem pelo e-mail. <br\>
+Deixando tudo junto, já não é mais 2fa. <br\>
 
-<br\>
+### 4. use junto de um gerador de senhas 
+Use um gerenciador de senhas: Ele ajuda a organizar suas contas com segurança e pode armazenar backups de códigos.
+
+
 
