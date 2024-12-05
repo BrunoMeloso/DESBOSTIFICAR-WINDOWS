@@ -10,7 +10,7 @@ Um exemplo bom é o do [Google](https://github.com/google/google-authenticator-a
 ![IsItTimeYetGIF](https://github.com/user-attachments/assets/9af02c71-e5d9-4046-be03-dfc3e969e1be)
 <br>
 
-##O segredo é tem um app que gera a altenticação de duas etapas (2fa) mas do tipo TOTP que tenha fácil backup das chaves.
+## O segredo é tem um app que gera a altenticação de duas etapas (2fa) mas do tipo TOTP que tenha fácil backup das chaves.
 <br>
 
 ### 1. Proteção contra senhas roubadas
@@ -26,8 +26,12 @@ Sabendo que há uma segunda camada de proteção, você se sente mais seguro em 
 Mas tem um limitador, você não poderá deixa junto dos apps e serviços que você usa esse 2fa, até o de sms ou quem vem pelo e-mail. <br\>
 Deixando tudo junto, já não é mais 2fa. <br\>
 
-### 4. use junto de um gerador de senhas 
-Use um gerenciador de senhas: Ele ajuda a organizar suas contas com segurança e pode armazenar backups de códigos.
+### 4. Utilise junto de um gerador de senhas 
+Use um gerenciador de senhas para ajuda a organizar suas contas com segurança e pode armazenar backups de códigos.🤌
+
+![ShowMeThePasswordGIF](https://github.com/user-attachments/assets/c0b1742f-046a-4516-94af-376868a60130)
+![StrongPasswordGIF](https://github.com/user-attachments/assets/ef494be9-b867-41ee-99eb-01b26b579f66)
+
 
 
 
