@@ -29,7 +29,7 @@ def generate_totp(secret, time_step=30):
 print("Hora Certa", time.strftime("%H:%M:%S")) # Mostra o horario atual
 
 print("digite a chave do TOTP: ")
-secret = input (" ") # Chave secreta (em Base32)  ||  exemplo M6OIBBU62I5AM4ORZIKDREIYBCESLNAH
+secret = input (" ") # Chave secreta (em Base32) || exemplo M6OIBBU62I5AM4ORZIKDREIYBCESLNAH
 print("Sua chave é:", generate_totp(secret))
 
 input("\n Pressione Enter para sair...") # O programa aguardará o usuário pressionar Enter para sair do console
