@@ -5,9 +5,8 @@ import hashlib
 import time
 import struct
 import base64
-import time
 
-def generate_totp(secret, time_step=30):
+def generate_totp(secret, time_step=30):         
     # Decodifica a chave secreta (Base32 para bytes)
     key = base64.b32decode(secret, casefold=True)
 
@@ -17,7 +16,7 @@ def generate_totp(secret, time_step=30):
     # Codifica o timestamp como bytes
     time_bytes = struct.pack(">Q", current_time)
 
-    # Gera o HMAC usando SHA-1
+    # Gera o HMAC usando SHA-1 das variáveis 
     hmac_hash = hmac.new(key, time_bytes, hashlib.sha1).digest()
 
     # Realiza o dynamic truncation para obter um código de 6 dígitos
