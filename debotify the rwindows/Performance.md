@@ -9,7 +9,7 @@
 ### Pois bem, vou melhorar isso.
 <br>
 
-### 1. Termine e Desative no `Services.msc` o que você não precisar:
+### 1. Termine e Desative no `Services.msc` o que você não precisa:
 
 * FAX 
 * Sysman se você usa SSD 
