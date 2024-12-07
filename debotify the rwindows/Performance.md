@@ -11,25 +11,25 @@
 
 ### 1. Termine e Desative no `Services.msc` o que você não precisar:
 
-FAX
-Sysman se você usa SSD 
-Telemetria
-Windows Search
-Windows Error Reporting Service
-Secondary Logon
-Print Spooler
-Offline Files
-Remote Registry
-Tablet Input Service
-Uso de Dados, Serviços XPS
-Windows Process Activation Service (WAS)
-Remote Differential Compression (RDC)
-Cliente de pastas de trabalho
-Windows PowerShell
-Windows Fax and Scan
-Microsoft Print to PDF
-Internet Printing Client 
-Bluetooth Support Service
-Windows Update
-Coletor de eventos do Windows 
+* FAX 
+* Sysman se você usa SSD 
+* Telemetria
+* Windows Search
+* Windows Error Reporting Service
+* Secondary Logon
+* Print Spooler
+* Offline Files
+* Remote Registry
+* Tablet Input Service
+* Uso de Dados, Serviços XPS
+* Windows Process Activation Service (WAS)
+* Remote Differential Compression (RDC)
+* Cliente de pastas de trabalho
+* Windows PowerShell
+* Windows Fax and Scan
+* Microsoft Print to PDF
+* Internet Printing Client 
+* Bluetooth Support Service
+* Windows Update
+* Coletor de eventos do Windows 
  
