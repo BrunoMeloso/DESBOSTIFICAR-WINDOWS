@@ -68,6 +68,15 @@ Remova os arquivos temporários em `Win + R`, digitando:
 * temp
 * %temp%
 * prefetch
-
 Alguns estarão em uso, basta ignorar. 
+
+### Softwares de terceiros
+
+Use ferramentas de otimização como:
+* CCleaner: Para limpar arquivos inúteis e ajustar inicializações.
+* Razer Cortex (para gamers): Libera recursos enquanto você joga.
+* Tem uma lista com outros [Aplicativos]() 
+
+
+
  
