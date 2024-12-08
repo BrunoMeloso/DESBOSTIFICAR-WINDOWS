@@ -31,5 +31,8 @@
 * Internet Printing Client 
 * Bluetooth Support Service
 * Windows Update
-* Coletor de eventos do Windows 
+* Coletor de eventos do Windows
+
+### 2. Visual
+
  
