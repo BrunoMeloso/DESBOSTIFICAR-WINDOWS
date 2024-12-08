@@ -59,7 +59,7 @@ Pronto. Verá que não mudou nada no visual, mas diminuiu a carga de processamen
 
 ### Desativar programas de inicialização:
 
-No `Win + i`, escolha Aplicativos e Inicialização, desative tudo o que não for importante, deixe ativos driver de vídeo como Intel e Nvidia e o Windows Security.
+No `Win + i`, escolha Aplicativos > Inicialização, desative tudo o que não for importante, deixe ativos driver de vídeo como Intel e Nvidia e o Windows Security.
 * Caso não use o OneDrive, melhor desinstalar.
 
 ### Limpeza do sistema
@@ -75,7 +75,11 @@ Alguns estarão em uso, basta ignorar.
 Use ferramentas de otimização como:
 * CCleaner: Para limpar arquivos inúteis e ajustar inicializações.
 * Razer Cortex (para gamers): Libera recursos enquanto você joga.
-* Tem uma lista com outros [Aplicativos]() 
+* Veja a lista com outros [Aplicativos](https://github.com/BrunoMeloso/cool-things/blob/main/debotify%20the%20rwindows/Applications.md)
+
+
+![ByeGIF](https://github.com/user-attachments/assets/0663ad14-040c-4544-833d-ed0e14e8a682)
+
 
 
 
