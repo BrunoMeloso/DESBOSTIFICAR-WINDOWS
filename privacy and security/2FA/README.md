@@ -1,5 +1,4 @@
 # PENSA NUM NEGÓCIO LEGAL É ESSE TAL DE 2FA ou F2A 🔏
-
 <br>
 <br>
 
