@@ -1,5 +1,4 @@
 # Só eu que vejo que a Micosoft gosta de deixar tudo de uma maneira, digamos, peculiar? 😒
-
 <br>
 
 ### Você paga mais de 500 Dilmos na licença de uma Janelas e vem parecendo aquela bebida de caixinha que você precisa agitar bem antes de beber...
