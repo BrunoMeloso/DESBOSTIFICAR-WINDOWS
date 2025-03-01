@@ -1,6 +1,6 @@
 ### mano
 ## mano
-# MANO 🫨
+# MANO 😧
 
 <br>
 
