@@ -2,7 +2,7 @@
 ## Aqui você encontrará algumas dicas de como organizar suas coisas: 
 
 ### 📩E-mails: 
-`O E-mail sempre é um problema caso você perca o acesso, misture com diversas coisas como 
+`O E-mail sempre é um problema caso você perca o acesso ou misture com diversas coisas como
 trabalho, estudo, laser, conexões com IAs, sites de apostas (sim eu sei), newslatter entre outros.
 Pensando nisso, fiz esse processo para definir como organizar suas contas:`
 
