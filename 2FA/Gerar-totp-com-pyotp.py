@@ -1,5 +1,7 @@
-# Mais facil que isso não tem, esse roda igual o totp-root
+# pegue a ca=have secreta que o app lhe deu e cole nesse gerador baseado em tempo
+# Mais facil que isso não tem, esse roda igual o GERADOR totp-root.py 
 # Esse usa a lib https://pypi.org/project/pyotp 
+# joge no chat GPT caso não tenha entendido.
 
 import pyotp
 import time
