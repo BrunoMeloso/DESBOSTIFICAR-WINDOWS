@@ -35,14 +35,13 @@ Pronto, não sei como o Gpedit foi instalado mas foi, agora basta seguir o prece
 
 ### Faça isso:
 
-1. Via Editor de Política de Grupo<br/>
+1. Via Editor de Política de Grupo <br/>
       Pressione Windows + R, digite `gpedit.msc` e pressione Enter. Desative as coletas de dados e tudo o que quiser. <br/>
-      No menu de `Configuração do Computador` vá para `Modelos Administrativos > Componentes do Windows > Coleta de Dados e Compilação de Visualização`<br/>
+      No menu de `Configuração do Computador` vá para `Modelos Administrativos → Componentes do Windows → Coleta de Dados e Compilação de Visualização`<br/>
       limite a telemetria ai.
 <br>      
-<br>
 
-2. Desativar no serviços a Telemetria e coleta<br/>
+2. Desativar no serviços <br/>
       Pressione Win + R, digite `services.msc` e pressione Enter para abrir o Gerenciador de Serviços.<br/>
       Clique duas vezes sobre ele, altere o Tipo de inicialização para `Desativado`, e clique em OK nos serviços que tenha o nome parecido com:<br/>
       `Experiências do Usuário Conectado e Telemetria`.<br/>
@@ -54,6 +53,16 @@ Pronto, não sei como o Gpedit foi instalado mas foi, agora basta seguir o prece
       `Registro remoto`<br>
 <br>
 
+3. Não mande nada para a Micosoft<br/>
+      Pressione `Win + I` para abrir as Configurações e navegue ate: <br/>
+      `Privacidade e segurança → Segurança do Windows → Abrir Segurança do Windows` ou clique no Windows Defender perto do relógio. <br/>
+      Na janela da Segurança do Windows, vá para `Proteção contra vírus e ameaças`<br/>
+      Em Configurações de proteção contra vírus e ameaças, clique em `Gerenciar configurações`.<br/>
+      Role até a seção Envio automático de amostras e Desative a opção, e clique em ignorar. <br/>
+<br/>
+
 ![MorganFreemanFreemanGIF](https://github.com/user-attachments/assets/535ffb5a-11e1-4482-99bf-7130a433d983)
 
+> [!IMPORTANT]
+> Veja também Performance.md
 
