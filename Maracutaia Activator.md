@@ -1,5 +1,5 @@
 > [!WARNING] 
-> # Ó, tenho nada haver com isso dai, ta okay? Me contaram esses dias 😂
+> # Ó, tenho nada haver com isso dai, ta okay? Me contaram esses dias logo ali😂
 <br>
 
 Ai disseram que o burrindows busca a paridade do serial em um servidor dedicado para ativar o menino.<br>
