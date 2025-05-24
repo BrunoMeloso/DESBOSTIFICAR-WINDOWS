@@ -12,7 +12,7 @@ Esses dados podem incluir informações sobre o desempenho do sistema, uso de ap
 ![IanInsanityGIF](https://github.com/user-attachments/assets/7dadea2a-65ed-4f95-8ed3-691523cb4bf0)
 ###### Daqui é por sua conta, se der pau a culpa é sua 😊
 
-## Caso seu Pordrwindows não tenha o Editor de Políticas de Grupo, Ative-o! 
+## Caso seu Podrwindows não tenha o Editor de Políticas de Grupo, Ative-o! 
 
 O gpedit não está disponível por padrão em algumas versões do Windows 10 e Windows 11. Porque será né?<br/>
 Abra o prompt de comando como administrador e cole o seguinte comando e pressione Enter:
