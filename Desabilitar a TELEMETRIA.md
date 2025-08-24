@@ -12,7 +12,7 @@ Esses dados podem incluir informações sobre o desempenho do sistema, uso de ap
 ![IanInsanityGIF](https://github.com/user-attachments/assets/7dadea2a-65ed-4f95-8ed3-691523cb4bf0)
 ###### Daqui é por sua conta, se der pau a culpa é sua 😊
 
-## Caso seu Podrwindows não tenha o Editor de Políticas de Grupo, Ative-o! 
+### 1. Caso seu Podrwindows não tenha o Editor de Políticas de Grupo, Ative-o! 
 
 O gpedit não está disponível por padrão em algumas versões do Windows 10 e Windows 11. Porque será né?<br/>
 Abra o prompt de comando como administrador e cole o seguinte comando e pressione Enter:
@@ -33,7 +33,7 @@ Pronto, não sei como o Gpedit foi instalado mas foi, agora basta seguir o prece
 <br>
 <br>
 
-### Faça isso:
+### 2. Agora faça isso:
 
 1. Via Editor de Política de Grupo <br/>
       Pressione Windows + R, digite `gpedit.msc` e pressione Enter. Desative as coletas de dados e tudo o que quiser. <br/>
@@ -53,12 +53,18 @@ Pronto, não sei como o Gpedit foi instalado mas foi, agora basta seguir o prece
       `Registro remoto`<br>
 <br>
 
-3. Não mande nada para a Micosoft<br/>
-      Pressione `Win + I` para abrir as Configurações e navegue ate: <br/>
-      `Privacidade e segurança → Segurança do Windows → Abrir Segurança do Windows` ou clique no Windows Defender perto do relógio. <br/>
-      Na janela da Segurança do Windows, vá para `Proteção contra vírus e ameaças`<br/>
-      Em Configurações de proteção contra vírus e ameaças, clique em `Gerenciar configurações`.<br/>
-      Role até a seção Envio automático de amostras e Desative a opção, e clique em ignorar. <br/>
+3. Não mande nada para a Micosoft <br/>
+      Clique no Windows Defender no canto inferior perto do relógio. <br/>
+      No menu, vá para `Proteção contra vírus e ameaças`<br/>
+      Role um pouco até Configurações de proteção contra vírus e ameaças, clique em `Gerenciar configurações`.<br/>
+      Desative as opções `Envio automático de amostras` e se quiser `Proteção fornecida na nuvem`, depois clique em ignorar. <br/>
+<br/>   
+
+4. Proteção <br/>
+      Atualize sempre seu Rwindows e Rwindows Defender. <br/>
+      Não instale programas piratas, modificadores de aparência, wallpaper animados etc. <br/>
+      Instale uma VPN tipo [Proton VPN](https://protonvpn.com/) se quiser algum nível de proteção. <br/>
+      Melhor que antivírus é tomar cuidado onde clica e o que baixa. <br/>
 <br/>
 
 ![MorganFreemanFreemanGIF](https://github.com/user-attachments/assets/535ffb5a-11e1-4482-99bf-7130a433d983)
