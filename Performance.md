@@ -51,7 +51,7 @@ No `Win + R` escreva `SystemPropertiesAdvanced` e em Desempenho, clique em Confi
 Pronto. Verá que não mudou nada no visual, mas diminuiu a carga de processamento.
 
 
-### 3.Desativar programas de inicialização:
+### 3. Desativar programas de inicialização:
 
 No `Win + i`, escolha Aplicativos > Inicialização, desative tudo o que não for importante, deixe ativos driver de vídeo como Intel e Nvidia e o Windows Security.
 * Caso não use o OneDrive, melhor desinstalar.
@@ -66,7 +66,7 @@ Remova os arquivos temporários em `Win + R`, digitando:
 Alguns estarão em uso, basta ignorar. 
 
 
-### 5.Softwares de terceiros
+### 5. Softwares de terceiros
 
 Use ferramentas de otimização como:
 * CCleaner: Para limpar arquivos inúteis e ajustar inicializações.
