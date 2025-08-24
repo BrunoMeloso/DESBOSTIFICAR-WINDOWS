@@ -1,4 +1,4 @@
-# É, é, é cara! 
+# É, É CARA! 
 
 ![ComplicadoSerjaoGIF](https://github.com/user-attachments/assets/a728ffdb-e3d9-4c73-b286-d1f9e1b94ba2)
 
