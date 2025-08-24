@@ -71,8 +71,6 @@ Alguns estarão em uso, basta ignorar.
 Use ferramentas de otimização como:
 * CCleaner: Para limpar arquivos inúteis e ajustar inicializações.
 * Razer Cortex (para gamers): Libera recursos enquanto você joga.
-* Veja a lista com outros [Aplicativos](https://github.com/BrunoMeloso/cool-things/blob/main/debotify%20the%20rwindows/Applications.md)
-
 
 ![ByeGIF](https://github.com/user-attachments/assets/0663ad14-040c-4544-833d-ed0e14e8a682)
 
