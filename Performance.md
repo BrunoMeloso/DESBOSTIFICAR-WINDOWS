@@ -31,6 +31,7 @@
 * Windows Update
 * Coletor de eventos do Windows
 
+
 ### 2. Visual.
 * No `Win + i`, escolha Personalização > cores e desative Efeitos de transparência.
   
@@ -49,19 +50,14 @@ No `Win + R` escreva `SystemPropertiesAdvanced` e em Desempenho, clique em Confi
 
 Pronto. Verá que não mudou nada no visual, mas diminuiu a carga de processamento.
 
-### Proteção
 
-* Atualize sempre sua Windows Defender.
-* Não instale programas piratas, modificadores de aparência, wallpaper animados etc.
-* antivírus, serve se você entra em xxx ou darkweb, fora isso não fará diferença para sua segurança. Melhor que antivírus é tomar cuidado onde clica e o que baixa.
-* Instale um Firewall e talvez uma VPN se quiser algum nível de proteção.
-
-### Desativar programas de inicialização:
+### 3.Desativar programas de inicialização:
 
 No `Win + i`, escolha Aplicativos > Inicialização, desative tudo o que não for importante, deixe ativos driver de vídeo como Intel e Nvidia e o Windows Security.
 * Caso não use o OneDrive, melhor desinstalar.
 
-### Limpeza do sistema
+
+### 4. Limpeza do sistema
 
 Remova os arquivos temporários em `Win + R`, digitando:
 * temp
@@ -69,7 +65,8 @@ Remova os arquivos temporários em `Win + R`, digitando:
 * prefetch
 Alguns estarão em uso, basta ignorar. 
 
-### Softwares de terceiros
+
+### 5.Softwares de terceiros
 
 Use ferramentas de otimização como:
 * CCleaner: Para limpar arquivos inúteis e ajustar inicializações.
