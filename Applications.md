@@ -9,3 +9,4 @@ O bom do rWindows é que ele tem mais programas e jogos do que outros OS, sem um
 * [Pronto VPN](https://protonvpn.com/pt-br)
 * [Macrorit Free](https://macrorit.com/purchase.html)
 * 
+ 
